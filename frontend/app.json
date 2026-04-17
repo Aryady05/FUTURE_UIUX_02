@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Shree Yoga+",
+    "slug": "shree-yoga-plus",
+    "scheme": "shreeyogaplus",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.shreeyogaplus.app"
+    },
+    "android": {
+      "package": "com.shreeyogaplus.app"
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}
+

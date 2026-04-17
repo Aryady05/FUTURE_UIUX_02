@@ -1,0 +1,14 @@
+{
+  "name": "shree-yoga-plus",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start:frontend": "npm run start --prefix frontend",
+    "start:backend": "npm run dev --prefix backend",
+    "android": "npm run android --prefix frontend",
+    "ios": "npm run ios --prefix frontend",
+    "web": "npm run web --prefix frontend",
+    "typecheck:frontend": "npm run typecheck --prefix frontend",
+    "typecheck:backend": "npm run typecheck --prefix backend"
+  }
+}
